@@ -1,6 +1,12 @@
 # ML-EDAN
 A Multilevel Encoder-Decoder Attention Network for Change Detection in Hyperspectral Images.
 
+#Requirements
+Ubuntu 20.04 cuda 11.0
+Python 3.8 Pytorch 1.7
+
+#Usage
+We have presented test cases of the proposed model in model.py file.
 If you use this code 
 Please cite this
 @ARTICLE{9624977,

@@ -9,7 +9,7 @@ Python 3.8 Pytorch 1.7
 # Usage
 We have presented test cases of the proposed model in model.py file.
 
-# Hyper parameters
+# Hyperparameters
 The training rate is set to 0.0001.
 
 The batchsize is set to 16.

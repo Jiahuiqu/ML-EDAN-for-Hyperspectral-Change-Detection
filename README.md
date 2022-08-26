@@ -10,7 +10,7 @@ Python 3.8 Pytorch 1.7
 We have presented test cases of the proposed model in model.py file.
 
 # Reference
-If you use this code, please cite this
+If you use this code, please kindly cite this
 @ARTICLE{9624977,
   author={Qu, Jiahui and Hou, Shaoxiong and Dong, Wenqian and Li, Yunsong and Xie, Weiying},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 

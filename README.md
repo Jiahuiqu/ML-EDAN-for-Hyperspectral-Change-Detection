@@ -9,6 +9,17 @@ Python 3.8 Pytorch 1.7
 # Usage
 We have presented test cases of the proposed model in model.py file.
 
+# Hyper parameters
+The training rate is set to 0.0001.
+
+The batchsize is set to 16.
+
+The patch size is set to 5.
+
+The optimizer is Adam.
+
+The more detailed training settings are shown in experiments of this paper.
+
 # Reference
 If you use this code, please kindly cite this
 @ARTICLE{9624977,

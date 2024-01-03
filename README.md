@@ -22,12 +22,12 @@ The more detailed training settings are shown in experiments of this paper.
 
 # Reference
 If you use this code, please kindly cite this
-@ARTICLE{9624977,
-  author={Qu, Jiahui and Hou, Shaoxiong and Dong, Wenqian and Li, Yunsong and Xie, Weiying},
-  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  title={A Multilevel Encoder–Decoder Attention Network for Change Detection in Hyperspectral Images}, 
-  year={2022},
-  volume={60},
-  number={},
-  pages={1-13},
-  doi={10.1109/TGRS.2021.3130122}}
+@ARTICLE{9624977,  
+  &emsp;author={Qu, Jiahui and Hou, Shaoxiong and Dong, Wenqian and Li, Yunsong and Xie, Weiying},  
+  &emsp;journal={IEEE Transactions on Geoscience and Remote Sensing},  
+  &emsp;title={A Multilevel Encoder–Decoder Attention Network for Change Detection in Hyperspectral Images},  
+  &emsp;year={2022},  
+  &emsp;volume={60},  
+  &emsp;number={},  
+  &emsp;pages={1-13},  
+  &emsp;doi={10.1109/TGRS.2021.3130122}}

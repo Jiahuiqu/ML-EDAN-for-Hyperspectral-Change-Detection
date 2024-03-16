@@ -1,5 +1,5 @@
-# ML-EDAN
-A Multilevel Encoder-Decoder Attention Network for Change Detection in Hyperspectral Images.
+# ML-EDAN for Hyperspectral Change Detection
+The implementation of the paper "A Multilevel Encoder-Decoder Attention Network for Change Detection in Hyperspectral Images" (IEEE Transactions on Geoscience and Remote Sensing 2022)
 
 # Requirements
 Ubuntu 20.04 cuda 11.0
